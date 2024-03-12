@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Chrom-Pharaoh/Chrom-Pharaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Full-stack developer as a hobby<br>
 
-Here are some ideas to get you started:
+⚙️Languages: ruby, go, c++, java, html, css, js, python<br>
+🗓️Coding since 2016<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Socials:<br>
+<a href="https://instagram.com/chromfaraon">
+    <img src="instagram.webp" alt="Instagram" width=50>
+</a>
+<a href="https://discord.gg/3SkkVSE5Ua">
+    <img src="discord.jpg" alt="Discord" width=50>
+</a>
